@@ -87,7 +87,7 @@ streamlit run app.py
 
 ## Live App
 
-> **`<PASTE YOUR STREAMLIT COMMUNITY CLOUD URL HERE AFTER DEPLOYING>`**
+> **`http://localhost:8501/`**
 
 ## App Features
 
